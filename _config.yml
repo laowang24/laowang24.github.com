@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "草根创业者·老王"
+name: "草根创业者 · 老王"
 markdown: rdiscount
 
 author: "laowang24"
@@ -26,4 +26,7 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
+  - title: Subscribe
+    class: fa fa-weibo 
+    href: http://weibo.com/laowang24 
 
