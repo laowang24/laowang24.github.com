@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "[草根创业者·老王]"
+name: "草根创业者·老王"
 markdown: rdiscount
 
 author: "laowang24"
