@@ -1,12 +1,11 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "[Home]"
+name: "[草根创业者·老王]"
 markdown: rdiscount
 
-author: "echoWLT"
-atom-baseurl: "http://http://linuxess.github.io"
-disqus: "echowlt"
+author: "laowang24"
+atom-baseurl: "http://http://laowang24.github.io"
 
 navigations:
   - title: Archive
@@ -20,7 +19,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://instagram.com/echowlt?ref=badge 
+    href: http://weibo.com/laowang24 
   - title: Blogroll
     class: fa fa-link
     href: /links.html
