@@ -6,7 +6,6 @@ markdown: rdiscount
 
 author: "laowang24"
 atom-baseurl: "http://http://laowang24.github.io"
-disqus: "echowlt"
 
 navigations:
   - title: Archive
