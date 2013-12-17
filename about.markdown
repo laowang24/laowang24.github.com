@@ -1,5 +1,5 @@
 ---
-title: about
+title: about 老王
 layout: page
 ---
 
@@ -11,5 +11,5 @@ layout: page
 > "草根创业者"是一个发表个人想法的平台，包括读书心得、创业时事看法、创业数据分析等内容.  
 
 > 此外，平时老王喜欢打篮球，看NBA，喜欢了解汽车，好品茶.  
-> 欢迎创业、投资人士前来交流,不吝赐教。E-Mail:laowang24@163.com  
+> 欢迎创业、投资人士前来交流,不吝赐教。E-Mail:`laowang24@163.com`  
 > 欢迎关注"[@草根创业者老王](http://weibo.com/laowang24)"新浪微博.
