@@ -1,5 +1,4 @@
 ---
-title: 2014.01.01
 layout: welcome 
 ---
 
