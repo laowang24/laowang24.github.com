@@ -17,9 +17,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: http://weibo.com/laowang24 
   - title: Blogroll
     class: fa fa-link
     href: /links.html
