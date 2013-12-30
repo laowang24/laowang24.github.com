@@ -1,9 +1,44 @@
 ---
-title: 本站点于2014.01.01正式发布，敬请期待！
-layout: welcome 
+layout: default
 ---
 
->  
->  "草根创业者·老王"，是一个未来创业者发表创业、投资相关领域等个人想法的平台.    
->  其内容主要包括创业读书心得，创业咨询个人看法，创业人士、创业案例数据分析等.    
->  涉及领域包括但不限于投融资、商务谈判、知识产品、精准营销、企业管理.    
+<div>
+  <ul class="listing">
+  {% for post in site.posts limit: 1 %}
+  <article class="content">
+    <section class="title">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </section>
+    <section class="meta">
+    <span class="time">
+      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    </span>
+    {% if post.tags %}
+    <span class="tags">
+      {% for tag in post.tags %}
+      <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
+      {% endfor %}
+    </span>
+    {% endif %}
+    </section>
+    <section class="post">
+    {{ post.content }}
+    </section>
+    </article>
+  {% endfor %}
+  </ul>
+  <div class="divider"></div>
+  <ul class="listing main-listing">
+  {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
+  {% for post in site.posts offset:1 %}
+    {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
+    {% if year != y %}
+    {% break %}
+    {% endif %}
+    <li class="listing-item">
+      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
