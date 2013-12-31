@@ -26,7 +26,6 @@
         <header>
           <div id="header">
             <h1><a class="" href="/">{{ site.name }}</a></h1>
-			<h1><a class="" href="/">{{ page.url }}</a></h1>
           </div>
           <nav>
             {% for nav in site.navigations %}
@@ -34,6 +33,12 @@
             {% endfor %}
           </nav>
         </header>
+			本文链接：<h5><a class="" href="http://laowang24.github.io/{{ page.url }}">{{ page.url }}</a></h5>
+			本文标题：{{ page.title }}
+			文章标签：
+			{% for tag in page.tags %}
+				{{ tag }},
+			{% endfor %}
         <div id="content">
         {{ content }}
         </div>
