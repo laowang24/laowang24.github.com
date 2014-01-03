@@ -24,7 +24,7 @@ navigations:
     class: fa fa-rss
     href: /atom.xml
   - title: App
-    class: fa fa-phone 
+    class: fa fa-mobile-phone 
     href: /app.html
   - title: sina weibo 
     class: fa fa-weibo 
