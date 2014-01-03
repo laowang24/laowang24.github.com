@@ -23,6 +23,9 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
+  - title: App
+    class: fa fa-phone 
+    href: /app.html
   - title: sina weibo 
     class: fa fa-weibo 
     href: http://weibo.com/laowang24 
