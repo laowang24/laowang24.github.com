@@ -1,5 +1,5 @@
 ---
-title: about 老王
+title: About 老王
 layout: page
 ---
 
