@@ -84,4 +84,4 @@ tags:
 ![](/media/images/201401/xiaomi_architecture.jpg)
 
 
-> 原文链接：http://blog.sina.com.cn/s/blog_49332a83010184q9.html，略有改动。
+> 原文链接：http://finance.qq.com/a/20110817/003418.htm，略有改动。
