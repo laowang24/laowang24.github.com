@@ -1,5 +1,5 @@
 ---
-title: Joel Spolsky: 创业公司如何公平分配股权？ 
+title: 创业公司如何公平分配股权
 layout: post
 tags:
   - 股权分配 
