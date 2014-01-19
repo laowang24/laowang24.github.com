@@ -16,11 +16,12 @@ tags:
 
 
 **关于Joel Spolsky**  
-![](/media/images/201401/Joel_Spolsky.jpg)
-周思博（英文名：Avram Joel Spolsky，1965－），软件工程师，作家，软件开发相关博客“周思博趣谈软件（Joel on Software）”的作者。  
-在1991年～1995年间，他担任了Microsoft Excel小组的程序管理经理。2000年，他创立了Fog Creek Software公司，并开设了博客，命之为“周思博趣谈软件”。
+![](/media/images/201401/Joel_Spolsky.jpg)  
+周思博（英文名：Avram Joel Spolsky，1965－），软件工程师，作家，软件开发相关博客“周思博趣谈软件（Joel on Software>）”的作者。  
+在1991年～1995年间，他担任了Microsoft Excel小组的程序管理经理。2000年，他创立了Fog Creek Software公司，并开设了博>客，命之为“周思博趣谈软件”。  
 在2008年，在与杰夫·阿特伍德的合作下，他推出了面向程序设计的问答网站Stack Overflow。  
 依靠Stack Overflow所基于的软件Stack Exchange，The Stack Exchange Network已托管了过百个问答网站。  
 以上摘自[维基百科](http://zh.wikipedia.org/wiki/%E5%91%A8%E6%80%9D%E5%8D%9A)  
+
 
 > 原文链接：http://www.36kr.com/p/22890.html，略有改动。
