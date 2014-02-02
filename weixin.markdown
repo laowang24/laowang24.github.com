@@ -2,7 +2,7 @@
 title: 微信App 
 layout: page
 tags: 
-	- 微信
+    - 微信
 ---
 
 ![](/media/images/201402/微信.gif)    
