@@ -23,7 +23,7 @@ navigations:
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
-  - title: App
+  - title: 移动互联网 
     class: fa fa-mobile-phone 
     href: /apps.html 
   - title: Sina Weibo 
