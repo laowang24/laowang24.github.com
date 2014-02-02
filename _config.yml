@@ -29,4 +29,8 @@ navigations:
   - title: Sina Weibo 
     class: fa fa-weibo 
     href: http://weibo.com/laowang24 
+  - title: Apple App 
+    class: fa fa-apple 
+    href: /apps.html 
+
 
