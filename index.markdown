@@ -4,7 +4,7 @@ layout: default
 
 <div>
   <ul class="listing">
-  {% for post in site.posts limit: 2 %}
+  {% for post in site.posts limit: 1 %}
   <article class="content">
     <section class="title">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -22,7 +22,7 @@ layout: default
     {% endif %}
     </section>
     <section class="post">
-    {{ post.content | size:"100" }}
+    {{ post.content size:"100" }}
     </section>
     </article>
 	<a href="{{ post.url }}">阅读全文请点击进入...</a>
