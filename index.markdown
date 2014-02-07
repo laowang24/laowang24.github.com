@@ -22,7 +22,7 @@ layout: default
     {% endif %}
     </section>
     <section class="post">
-    {{ post.content size:"100" }}
+    {{ post.content truncatewords:"100" }}
     </section>
     </article>
 	<a href="{{ post.url }}">阅读全文请点击进入...</a>
