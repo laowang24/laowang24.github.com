@@ -1,8 +1,6 @@
 ---
-title: 微信App 
+title: 微信App功能 
 layout: page
-tags: 
-    - 微信
 ---
 
 ![](/media/images/201402/微信.gif)    
