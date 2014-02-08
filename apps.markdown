@@ -4,7 +4,7 @@ layout: page
 ---
 
 [微信](/weixin)    
-[来往挑战微信](/)  
+[来往挑战微信](/laiwang_vs_weixin)  
 [instagram里看“闻闻窝”](/)  
 [蘑菇街 VS 美丽说](/)  
 [快的打车 VS 滴滴打车](/)  
