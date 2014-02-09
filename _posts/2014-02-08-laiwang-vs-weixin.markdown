@@ -1,6 +1,6 @@
 ---
 title: 来往挑战微信 
-layout: page
+layout: post 
 tags:
   - 微信
   - 来往
