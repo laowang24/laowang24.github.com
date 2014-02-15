@@ -12,7 +12,7 @@ tags:
 >  李治国把福云咖啡中的创业团队定义为“微创业”，“就像福云和福地的名字一样，时刻提醒创业者创业有风险，如果你扎实、快速做大就能够落地，做得不好创业只能成为浮云”。下面是福地创业园地理位置坐标：
 >  
 
-<div style="width:697px;height:350px;border:#ccc solid 1px;" id="dituContent"></div>
+<div style="width:680px;height:350px;border:#ccc solid 1px;" id="dituContent"></div>
 <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
 <script type="text/javascript">
     //创建和初始化地图函数：
