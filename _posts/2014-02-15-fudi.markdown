@@ -6,7 +6,11 @@ tags:
   - 福地 
 ---
 
->  今天
+>  今天去参观了下杭州西溪福地创业园，一个高新技术孵化基地。
+>  福地创业园是由原阿里第46号员工，后来创办口碑网的李治国先生、原支付宝创始人之一蒋海炳、前淘宝员工严德红创建。  
+>  该创业基地主要关注移动互联网、电子商务和云计算，主要形成了以办公区和福云咖啡为主体的基本格局。
+>  李治国把福云咖啡中的创业团队定义为“微创业”，“就像福云和福地的名字一样，时刻提醒创业者创业有风险，如果你扎实、快速做大就能够落地，做得不好创业只能成为浮云”。下面是福地创业园地理位置坐标：
+
 
 <div style="width:697px;height:350px;border:#ccc solid 1px;" id="dituContent"></div>
 <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
@@ -107,3 +111,21 @@ tags:
     
     initMap();//创建和初始化地图
 </script>
+
+
+**福地创业园正门** 
+![](/media/images/201402/fudi_door.jpeg)  
+**已入驻的公司**  
+![](/media/images/201402/com_list.jpeg)  
+![](/media/images/201402/app_list.jpeg)  
+![](/media/images/201402/company01.jpeg)  
+![](/media/images/201402/company02.jpeg)  
+**神马都是福云**  
+![](/media/images/201402/fuyun.jpeg)  
+**恰巧碰到巡讲**  
+![](/media/images/201402/tour.jpeg)  
+**创业园饭堂**
+![](/media/images/201402/restaurant.jpeg)  
+
+
+
