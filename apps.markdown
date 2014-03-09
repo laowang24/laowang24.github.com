@@ -5,9 +5,5 @@ layout: page
 
 [微信](/weixin)    
 [来往挑战微信](/laiwang_vs_weixin)  
-[instagram里看“闻闻窝”](/)  
-[蘑菇街 VS 美丽说](/)  
-[快的打车 VS 滴滴打车](/)  
-[淘点点O2O](/)  
-[e家洁家政 VS 阿姨帮](/)   
+[垂直化的Instagram，宠物社区“闻闻窝”](/)  
 
