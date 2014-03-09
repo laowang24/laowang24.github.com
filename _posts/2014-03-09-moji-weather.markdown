@@ -39,7 +39,7 @@ Avatar小人的穿衣提示
 时景天气活动  
 
 墨迹天气产品研发流程、内测流程
-
+![](http://img03.taobaocdn.com/imgextra/i3/735342814/T2vVfPXqXaXXXXXXXX_!!735342814.jpg)  
 
 
 **2、创业是怎么样的？**  
